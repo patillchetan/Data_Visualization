@@ -1,5 +1,3 @@
-# CodeAlpha_DataAnalytics_Task2
-
 # E-Commerce Sales Data Visualization Project
 
 ## Overview
